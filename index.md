@@ -27,6 +27,7 @@ A preliminary program will be drafted by the end of Austust 2019.
 - Thomas Gasenzer
 - Pierre Suret (TBC)
 - Stéphane Randoux (TBC)
+- Renzo Ricca
 
 ## Fees and financial support
 There are no workshop fees. 
