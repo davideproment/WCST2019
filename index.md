@@ -1,6 +1,5 @@
 ## When and where?
-School of Mathemtics, University of East Anglia, Norwich (UK)
-
+School of Mathematics, University of East Anglia, Norwich (UK) \
 30th October - 1st November 2019
 
 ## Aim of the workshop
