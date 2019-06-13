@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## When and where?
+School of Mathemtics, University of East Anglia, Norwich (UK)
+30th October - 1st November 2019
 
-You can use the [editor on GitHub](https://github.com/davideproment/WCST2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Aim of the workshop
+The workshop will bring together physicsts and applied mathematicians researching in the area of waves, coherent structures and turblulence. The even has four sessions corresponding to the following themes:
+- Classical vortex dynamics
+- Nonlinear waves
+- Wave interactions and turbulence
+- Coherent structures and topological excitations
+Each session will have an introductory lecture on the theme (aimed at the non-experts) and then a handful of more specific talks.
+We encourage the participation of PhD students and postdocs/early career researchers to the event. Depending on the numbers of participants, a formal poster session might also take place.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Program
+A preliminary program will be drafted by the end of Austust 2019.
 
-### Markdown
+## Preliminary list of invited speakers
+- Sergey Nazarenko
+- Miguel Onorato
+- Christophe Josserand
+- Gavin Esler
+- Gennady El
+- David Dritschel (TBC)
+- Miguel Bustamante
+- Thomas Gasenzer
+- Pierre Suret (TBC)
+- Stéphane Randoux (TBC)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Fees and financial support
+There are no workshop fees, and accommodation and meals will be covered for all the participants (up to a limit of 40 partipants in total). Limited funds are available to cover travel expenses; please contact the organisers if you require financial assistance for your travel.
 
-```markdown
-Syntax highlighted code block
+## Registration
+If you would like to participate to the workshop please contact Davide Proment (d.proment@uea.ac.uk).
 
-# Header 1
-## Header 2
-### Header 3
+## Organisers
+- Davide Proment (University of East Anglia, UK)
+- Jason Laurie (Aston University, UK)
 
-- Bulleted
-- List
+## Funding agencies
+- Wave Turbulence SIG, UK Fluids Network
+- EPSRC (project EP/P023770/1, On the interaction between quantum vortices and phonon radiation in Bose-Einstein condensates)
+- HALT (...)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davideproment/WCST2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
