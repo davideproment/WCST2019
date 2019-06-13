@@ -8,7 +8,7 @@ The workshop will bring together physicsts and applied mathematicians researchin
 - Classical vortex dynamics
 - Nonlinear waves
 - Wave interactions and turbulence
-- Coherent structures and topological excitations \\
+- Coherent structures and topological excitations
 
 Each session will have an introductory lecture on the theme (aimed at the non-experts) and then a handful of more specific talks.
 We encourage the participation of PhD students and postdocs/early career researchers to the event. Depending on the numbers of participants, a formal poster session might also take place.
