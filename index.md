@@ -1,6 +1,7 @@
 ## When and where?
-School of Mathematics, University of East Anglia, Norwich (UK) \
 30th October - 1st November 2019
+
+School of Mathematics, University of East Anglia, Norwich (UK)
 
 ## Aim of the workshop
 The workshop will bring together physicsts and applied mathematicians researching in the area of waves, coherent structures and turblulence. The even has four sessions corresponding to the following themes:
