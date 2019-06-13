@@ -11,7 +11,8 @@ The workshop will bring together physicsts and applied mathematicians researchin
 - Coherent structures and topological excitations
 
 Each session will have an introductory lecture on the theme (aimed at the non-experts) and then a handful of more specific talks.
-We encourage the participation of PhD students and postdocs/early career researchers to the event. Depending on the numbers of participants, a formal poster session might also take place.
+The participation of PhD students and postdocs and early career researchers to the event is particularly encouraged. 
+Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
 A preliminary program will be drafted by the end of Austust 2019.
