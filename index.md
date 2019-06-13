@@ -35,7 +35,7 @@ There are no workshop fees.
 Accommodation and meals will be covered for all the participants (up to a limit of 40 partipants in total).
 
 Limited funds are available to cover travel expenses.
-If you require financial assistance for your travel, please mention this during your registration.
+If you require financial assistance for your travel, please mention it during your registration.
 
 ## Registration
 To register to the workshop, please contact Davide Proment (d.proment@uea.ac.uk).
