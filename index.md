@@ -11,11 +11,11 @@ The workshop will bring together physicsts and applied mathematicians researchin
 - Coherent structures and topological excitations
 
 Each session will have an introductory lecture on the theme (aimed at the non-experts) and then a handful of more specific talks.
-The participation of PhD students and postdocs and early career researchers to the event is particularly encouraged. 
+The participation of PhD students, postdocs and early career researchers to the event is particularly encouraged.
 Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
-A preliminary program will be drafted by the end of Austust 2019.
+A preliminary program will be drafted by the end of August 2019.
 
 ## Preliminary list of invited speakers
 - Sergey Nazarenko
@@ -47,5 +47,5 @@ To register to the workshop, please contact Davide Proment (d.proment@uea.ac.uk)
 ## Funding agencies
 - Wave Turbulence SIG, UK Fluids Network
 - EPSRC (project EP/P023770/1, On the interaction between quantum vortices and phonon radiation in Bose-Einstein condensates)
-- HALT (...)
+- European Union’s Horizon 2020 (Marie Skłodowska-Curie grant agreement No 823937)
 
