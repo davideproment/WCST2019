@@ -32,7 +32,7 @@ A preliminary program will be drafted by the end of August 2019.
 
 ## Fees and financial support
 There are no workshop fees. 
-Accommodation and meals will be covered for all the participants (up to a limit of 40 partipants in total).
+Accommodation and meals will be covered for all the participants (up to a limit of 30 partipants in total).
 
 Limited funds are available to cover travel expenses.
 If you require financial assistance for your travel, please mention it during your registration.
@@ -42,13 +42,16 @@ To register to the workshop, please contact [Davide Proment](mailto:d.proment@ue
 
 ## Organisers
 - [Davide Proment](davideproment.pythonanywhere.com) (University of East Anglia, UK)
-- Jason Laurie (Aston University, UK)
+- [Jason Laurie](http://www.jasonlaurie.com/) (Aston University, UK)
 
 ## Funding agencies
 - Wave Turbulence SIG, UK Fluids Network
 - EPSRC (project EP/P023770/1, On the interaction between quantum vortices and phonon radiation in Bose-Einstein condensates)
 - European Union’s Horizon 2020 (Marie Skłodowska-Curie grant agreement No 823937)
 
+![](https://github.com/davideproment/WCST2019/raw/master/UKFluidsNetwork.png "UK Fluids Network")
+
 ![](https://github.com/davideproment/WCST2019/raw/master/EPSRC.png "EPSRC")
+
 ![](https://github.com/davideproment/WCST2019/raw/master/flag_yellow.png "EU flag")
 
