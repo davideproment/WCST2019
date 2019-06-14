@@ -49,5 +49,5 @@ To register to the workshop, please contact Davide Proment (d.proment@uea.ac.uk)
 - EPSRC (project EP/P023770/1, On the interaction between quantum vortices and phonon radiation in Bose-Einstein condensates)
 - European Union’s Horizon 2020 (Marie Skłodowska-Curie grant agreement No 823937)
 
-[Image](https://github.com/davideproment/WCST2019/ERC.png)
+![Image](https://github.com/davideproment/WCST2019/flag_yellow.png "EU flag")
 [Link](davideproment.pythonanywhere.com)
