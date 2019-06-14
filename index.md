@@ -41,7 +41,7 @@ If you require financial assistance for your travel, please mention it during yo
 To register to the workshop, please contact [Davide Proment](mailto:d.proment@uea.ac.uk).
 
 ## Organisers
-- Davide Proment (University of East Anglia, UK)
+- [Davide Proment](davideproment.pythonanywhere.com) (University of East Anglia, UK)
 - Jason Laurie (Aston University, UK)
 
 ## Funding agencies
@@ -49,5 +49,6 @@ To register to the workshop, please contact [Davide Proment](mailto:d.proment@ue
 - EPSRC (project EP/P023770/1, On the interaction between quantum vortices and phonon radiation in Bose-Einstein condensates)
 - European Union’s Horizon 2020 (Marie Skłodowska-Curie grant agreement No 823937)
 
-![](https://github.com/davideproment/WCST2019/flag_yellow.png "EU flag")
-[Link](davideproment.pythonanywhere.com)
+![](https://github.com/davideproment/WCST2019/raw/master/EPSRC.png "EPSRC")
+![](https://github.com/davideproment/WCST2019/raw/master/flag_yellow.png "EU flag")
+
