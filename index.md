@@ -30,6 +30,8 @@ A preliminary program will be drafted by the end of August 2019.
 - Stéphane Randoux (TBC)
 - Renzo Ricca
 - Hayder Salman
+- Emilan Parau
+- Andrew Baggaley (TBC)
 
 ## Fees and financial support
 There are no workshop fees. 
