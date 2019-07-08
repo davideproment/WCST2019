@@ -32,6 +32,7 @@ A preliminary program will be drafted by the end of August 2019.
 - Hayder Salman
 - Emilan Parau
 - Andrew Baggaley (TBC)
+- Andrew Gilbert
 
 ## Fees and financial support
 There are no workshop fees. 
