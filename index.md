@@ -17,7 +17,7 @@ Depending on the numbers of participants, a formal poster session might also tak
 ## Program
 A preliminary program will be drafted by the end of August 2019.
 
-## Preliminary list of invited speakers
+## Preliminary list of speakers
 - Sergey Nazarenko
 - Miguel Onorato
 - Christophe Josserand
