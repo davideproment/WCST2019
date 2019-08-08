@@ -43,7 +43,7 @@ Limited funds are available to cover travel expenses.
 If you require financial assistance for your travel, please mention it during your registration.
 
 ## Registration
-To register to the workshop, please contact [Davide Proment](mailto:d.proment@uea.ac.uk).
+To register to the workshop and express your willingness to present a talk or a poster, please contact [Davide Proment](mailto:d.proment@uea.ac.uk).
 
 ## Organisers
 - [Davide Proment](http:davideproment.pythonanywhere.com) (University of East Anglia, UK)
