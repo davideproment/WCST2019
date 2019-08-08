@@ -18,22 +18,22 @@ Depending on the numbers of participants, a formal poster session might also tak
 A preliminary program will be drafted by the end of August 2019.
 
 ## Preliminary list of speakers
+- Andrew Baggaley (TBC)
+- Miguel Bustamante
+- David Dritschel (TBC)
+- Gennady El
+- Gavin Esler
+- Thomas Gasenzer
+- Andrew Gilbert
+- Christophe Josserand
+- Anna Kalogirou
 - Sergey Nazarenko
 - Miguel Onorato
-- Christophe Josserand
-- Gavin Esler
-- Gennady El
-- David Dritschel (TBC)
-- Miguel Bustamante
-- Thomas Gasenzer
-- Pierre Suret (TBC)
+- Emilan Parau
 - Stéphane Randoux (TBC)
 - Renzo Ricca
 - Hayder Salman
-- Emilan Parau
-- Andrew Baggaley (TBC)
-- Andrew Gilbert
-- Anna Kalogirou
+- Pierre Suret (TBC)
 
 ## Fees and financial support
 There are no workshop fees. 
