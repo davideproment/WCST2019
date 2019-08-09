@@ -1,11 +1,16 @@
-theme: jekyll-theme-minimal
+title: Waves, coherent structures, and turbulence 2019
 logo: logo_Blue.png
-  
-plugins:
+google_analytics: UA-145404605-1
+
+theme: jekyll-theme-minimal
+
+  plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - CONTRIBUTING.md
   - README.md
