@@ -20,13 +20,16 @@ A preliminary program will be drafted by the end of August 2019.
 ## Preliminary list of speakers
 - Andrew Baggaley (TBC)
 - Miguel Bustamante
+- Amit Chattopadhyay (TBC)
 - David Dritschel (TBC)
 - Gennady El
 - Gavin Esler
+- Luca Galantucci
 - Thomas Gasenzer
 - Andrew Gilbert
 - Christophe Josserand
 - Anna Kalogirou
+- Jason Laurie
 - Sergey Nazarenko
 - Miguel Onorato
 - Emilan Parau
