@@ -49,7 +49,7 @@ If you require financial assistance for your travel, please mention it during yo
 To register to the workshop and express your willingness to present a talk or a poster, please contact [Davide Proment](mailto:d.proment@uea.ac.uk).
 
 ## Organisers
-- [Davide Proment](http:davideproment.pythonanywhere.com) (University of East Anglia, UK)
+- [Davide Proment](http://davideproment.pythonanywhere.com) (University of East Anglia, UK)
 - [Jason Laurie](http://www.jasonlaurie.com/) (Aston University, UK)
 
 ## Funding agencies
