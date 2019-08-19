@@ -20,7 +20,7 @@ A preliminary program will be drafted by the end of August 2019.
 ## Preliminary list of speakers
 - Andrew Baggaley (TBC)
 - Miguel Bustamante
-- Amit Chattopadhyay (TBC)
+- Amit Chattopadhyay
 - David Dritschel (TBC)
 - Gennady El
 - Gavin Esler
