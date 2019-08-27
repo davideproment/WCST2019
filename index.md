@@ -18,7 +18,7 @@ Depending on the numbers of participants, a formal poster session might also tak
 A preliminary program will be drafted by the end of August 2019.
 
 ## Preliminary list of speakers
-- Andrew Baggaley (TBC)
+- Andrew Baggaley
 - Miguel Bustamante
 - Amit Chattopadhyay
 - David Dritschel (TBC)
@@ -33,7 +33,7 @@ A preliminary program will be drafted by the end of August 2019.
 - Sergey Nazarenko
 - Miguel Onorato
 - Emilan Parau
-- Stéphane Randoux (TBC)
+- Stéphane Randoux
 - Renzo Ricca
 - Hayder Salman
 - Pierre Suret (TBC)
