@@ -15,7 +15,7 @@ The participation of PhD students, postdocs and early career researchers to the 
 Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
-A preliminary program will be drafted by the end of August 2019.
+A preliminary program will be drafted by mid of September 2019.
 
 ## Preliminary list of speakers
 - Andrew Baggaley
