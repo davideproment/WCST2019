@@ -37,6 +37,7 @@ A preliminary program will be drafted by mid of September 2019.
 - Renzo Ricca
 - Hayder Salman
 - Pierre Suret (TBC)
+- Simon Thalabard
 
 ## Fees and financial support
 There are no workshop fees. 
