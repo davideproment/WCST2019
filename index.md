@@ -15,13 +15,14 @@ The participation of PhD students, postdocs and early career researchers to the 
 Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
-A preliminary program will be drafted by mid of September 2019.
+The final program will be released by the end of September 2019.
 
-## Preliminary list of speakers
+## List of speakers
 - Andrew Baggaley
 - Miguel Bustamante
-- Amit Chattopadhyay
-- David Dritschel (TBC)
+- Amit Chattopadhyay (TBC)
+- Thibault Congy
+- Laura Cope
 - Gennady El
 - Gavin Esler
 - Luca Galantucci
