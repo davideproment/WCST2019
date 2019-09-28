@@ -15,12 +15,12 @@ The participation of PhD students, postdocs and early career researchers to the 
 Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
-The final program will be released by the end of September 2019.
+Please find [here](./program_V03.pdf) the current version of the program (updated Sep 28th 2019).
 
 ## List of speakers
 - Andrew Baggaley
 - Miguel Bustamante
-- Amit Chattopadhyay (TBC)
+- Amit Chattopadhyay
 - Thibault Congy
 - Laura Cope
 - Gennady El
@@ -37,7 +37,7 @@ The final program will be released by the end of September 2019.
 - Stéphane Randoux
 - Renzo Ricca
 - Hayder Salman
-- Pierre Suret (TBC)
+- Pierre Suret
 - Simon Thalabard
 
 ## Fees and financial support
