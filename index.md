@@ -15,10 +15,11 @@ The participation of PhD students, postdocs and early career researchers to the 
 Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
-Please find [here](./program_V03.pdf) the current version of the program (updated Sep 28th 2019).
+Please find [here](./program_V04.pdf) the current version of the program (updated Oct 9th 2019).
 
 ## List of speakers
 - Andrew Baggaley
+- Magnus Borgh
 - Miguel Bustamante
 - Amit Chattopadhyay
 - Thibault Congy
