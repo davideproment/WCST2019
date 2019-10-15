@@ -26,7 +26,6 @@ Please find [here](./program_V04.pdf) the current version of the program (update
 - Laura Cope
 - Gennady El
 - Gavin Esler
-- Luca Galantucci
 - Thomas Gasenzer
 - Andrew Gilbert
 - Christophe Josserand
