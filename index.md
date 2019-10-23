@@ -3,6 +3,8 @@
 
 School of Mathematics, University of East Anglia, Norwich (UK)
 
+Download here the [route indications](./routes.pdf), the [UEA campus map](./UEACampusMap.pdf), and the [Norwich Research Parrk map](./NRPMap.pdf). 
+
 ## Aim of the workshop
 The workshop will bring together physicsts and applied mathematicians researching in the area of waves, coherent structures and turblulence. The even has four sessions corresponding to the following themes:
 - Classical vortex dynamics
@@ -15,7 +17,7 @@ The participation of PhD students, postdocs and early career researchers to the 
 Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
-Please find [here](./program_V04.pdf) the current version of the program (updated Oct 9th 2019).
+Please find [here](./program_V05.pdf) the current version of the program (updated Oct 23rd 2019).
 
 ## List of speakers
 - Andrew Baggaley
