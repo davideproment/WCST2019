@@ -17,30 +17,30 @@ The participation of PhD students, postdocs and early career researchers to the 
 Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
-Please find [here](./program_V05.pdf) the current version of the program (updated Oct 23rd 2019).
+Please find [here](./program.pdf) the current version of the program (updated Oct 23rd 2019).
 
 ## List of speakers
 - Andrew Baggaley
 - Magnus Borgh
 - Miguel Bustamante
-- Amit Chattopadhyay
+- Amit Chattopadhyay - [slides](slides/Chattopadhyay.pdf)
 - Thibault Congy
-- Laura Cope
-- Gennady El
+- Laura Cope - [slides](slides/Cope.pdf)
+- Gennady El - [slides](slides/El.pdf)
 - Gavin Esler
 - Thomas Gasenzer
 - Andrew Gilbert
-- Christophe Josserand
+- Christophe Josserand - [slides](slides/Josserand.pdf)
 - Anna Kalogirou
-- Jason Laurie
-- Sergey Nazarenko
+- Jason Laurie - [slides](slides/Laurie.pdf)
+- Sergey Nazarenko - [slides](slides/Nazarenko.pdf)
 - Miguel Onorato
 - Emilan Parau
 - Stéphane Randoux
 - Renzo Ricca
 - Hayder Salman
 - Pierre Suret
-- Simon Thalabard
+- Simon Thalabard - [slides](slides/Thalabard.pdf)
 
 ## Fees and financial support
 There are no workshop fees. 
