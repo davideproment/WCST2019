@@ -22,25 +22,44 @@ Please find [here](./program.pdf) the current version of the program (updated Oc
 ## List of speakers
 - Andrew Baggaley
 - Magnus Borgh
-- Miguel Bustamante
+- Miguel Bustamante - [slides](slides/Bustamante.pdf)
 - Amit Chattopadhyay - [slides](slides/Chattopadhyay.pdf)
 - Thibault Congy
 - Laura Cope - [slides](slides/Cope.pdf)
 - Gennady El - [slides](slides/El.pdf)
 - Gavin Esler
 - Thomas Gasenzer
-- Andrew Gilbert
+- Andrew Gilbert - [slides](slides/Gilbert.pdf)
 - Christophe Josserand - [slides](slides/Josserand.pdf)
-- Anna Kalogirou
+- Anna Kalogirou - [slides](slides/Kalogirou.pdf)
 - Jason Laurie - [slides](slides/Laurie.pdf)
 - Sergey Nazarenko - [slides](slides/Nazarenko.pdf)
-- Miguel Onorato
+- Miguel Onorato - [slides](slides/Onorato.pdf)
 - Emilan Parau
 - Stéphane Randoux
 - Renzo Ricca
 - Hayder Salman
 - Pierre Suret
 - Simon Thalabard - [slides](slides/Thalabard.pdf)
+
+## List of posters
+- Umberto Giuriato - [poster](posters/Giuriato.pdf)
+- Adam Griffin - [poster](posters/Griffin.pdf)
+- Giacomo Roberti - [poster](posters/Roberti.pdf)
+
+## Pictures of the event
+![](./pictures/welcome.jpg "welcome")
+_Welcome party_
+
+![](./pictures/poster.jpg "poster")
+_Posters_
+
+![](./pictures/tour.jpg "tour")
+_Tour of Norwich city centre_
+
+![](./pictures/dinner01.jpg "dinner01")
+![](./pictures/dinner02.jpg "dinner02")
+_Social dinner_
 
 ## Fees and financial support
 There are no workshop fees. 
