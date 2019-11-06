@@ -37,9 +37,9 @@ Please find [here](./program.pdf) the current version of the program (updated Oc
 - Miguel Onorato - [slides](slides/Onorato.pdf)
 - Emilan Parau
 - Stéphane Randoux
-- Renzo Ricca
+- Renzo Ricca - [slides](slides/Ricca.pdf)
 - Hayder Salman
-- Pierre Suret
+- Pierre Suret - [slides](slides/Suret.pdf)
 - Simon Thalabard - [slides](slides/Thalabard.pdf)
 
 ## List of posters
