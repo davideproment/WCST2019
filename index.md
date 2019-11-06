@@ -46,6 +46,7 @@ Please find [here](./program.pdf) the current version of the program (updated Oc
 - Umberto Giuriato - [poster](posters/Giuriato.pdf)
 - Adam Griffin - [poster](posters/Griffin.pdf)
 - Giacomo Roberti - [poster](posters/Roberti.pdf)
+- Hugo S. Tavares - [poster](posters/Tavares.pdf)
 
 ## Pictures of the event
 ![](./pictures/welcome.jpg "welcome")
