@@ -20,7 +20,7 @@ Depending on the numbers of participants, a formal poster session might also tak
 Please find [here](./program.pdf) the current version of the program (updated Oct 23rd 2019).
 
 ## List of speakers
-- Andrew Baggaley
+- Andrew Baggaley - [slides](slides/Baggaley.pdf)
 - Magnus Borgh
 - Miguel Bustamante - [slides](slides/Bustamante.pdf)
 - Amit Chattopadhyay - [slides](slides/Chattopadhyay.pdf)
