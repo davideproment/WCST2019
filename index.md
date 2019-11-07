@@ -36,7 +36,7 @@ Please find [here](./program.pdf) the current version of the program (updated Oc
 - Sergey Nazarenko - [slides](slides/Nazarenko.pdf)
 - Miguel Onorato - [slides](slides/Onorato.pdf)
 - Emilan Parau
-- Stéphane Randoux
+- Stéphane Randoux - [slides](slides/Randoux.pdf)
 - Renzo Ricca - [slides](slides/Ricca.pdf)
 - Hayder Salman
 - Pierre Suret - [slides](slides/Suret.pdf)
