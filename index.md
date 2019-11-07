@@ -17,7 +17,7 @@ The participation of PhD students, postdocs and early career researchers to the 
 Depending on the numbers of participants, a formal poster session might also take place.
 
 ## Program
-Please find [here](./program.pdf) the current version of the program (updated Oct 23rd 2019).
+Please find [here](./program.pdf) the program of the workshop.
 
 ## List of speakers
 - Andrew Baggaley - [slides](slides/Baggaley.pdf)
