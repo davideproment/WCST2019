@@ -49,6 +49,7 @@ Please find [here](./program.pdf) the program of the workshop.
 - Umberto Giuriato - [poster](posters/Giuriato.pdf)
 - Adam Griffin - [poster](posters/Griffin.pdf)
 - Giacomo Roberti - [poster](posters/Roberti.pdf)
+- Jonathan Skipp - [poster](posters/Skipp.pdf)
 - Hugo S. Tavares - [poster](posters/Tavares.pdf)
 
 ## Pictures of the event
