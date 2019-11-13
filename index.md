@@ -1,4 +1,4 @@
-## WCST2019
+# WCST2019
 Waves, coherent structures, and turbulence
 
 ## When and where?
